@@ -1,0 +1,5 @@
+.expo/
+dist/
+npm-debug.*
+*.log
+.DS_Store
