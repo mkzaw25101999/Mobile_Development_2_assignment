@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Thrall",
+    "title": "Former Warchief of the Horde",
+    "class": "Shaman",
+    "role": "Leader",
+    "faction": "Horde",
+    "description": "An orc shaman who freed his people from internment camps and united the Horde. A master of the elements, he later stepped down as Warchief but continued to defend Azeroth in its darkest hours."
+  },
+  {
+    "id": "2",
+    "name": "Sylvanas Windrunner",
+    "title": "The Banshee Queen",
+    "class": "Dark Ranger",
+    "role": "Ranged DPS",
+    "faction": "Undead",
+    "description": "Once the Ranger-General of Silvermoon, she was slain by Arthas and raised as a banshee. She rose to lead the Forsaken and later the Horde, driven by a ruthless will to control her own fate."
+  },
+  {
+    "id": "3",
+    "name": "Illidan Stormrage",
+    "title": "The Betrayer",
+    "class": "Demon Hunter",
+    "role": "Melee DPS",
+    "faction": "Illidari",
+    "description": "A powerful night elf who sacrificed everything for power to fight the Burning Legion. Feared and misunderstood, he leads the Illidari with the belief that any weapon may be used against the demons."
+  },
+  {
+    "id": "4",
+    "name": "Arthas Menethil",
+    "title": "The Lich King",
+    "class": "Death Knight",
+    "role": "Melee DPS",
+    "faction": "Scourge",
+    "description": "The prince of Lordaeron who took up the cursed blade Frostmourne to save his people, only to fall to darkness. He became the Lich King, ruler of the undead Scourge."
+  },
+  {
+    "id": "5",
+    "name": "Jaina Proudmoore",
+    "title": "Lord Admiral of Kul Tiras",
+    "class": "Mage",
+    "role": "Ranged DPS",
+    "faction": "Alliance",
+    "description": "One of the most powerful mages alive and founder of Theramore. A voice of diplomacy turned hardened leader after tragedy, she commands frost magic of devastating strength."
+  },
+  {
+    "id": "6",
+    "name": "Anduin Wrynn",
+    "title": "King of Stormwind",
+    "class": "Priest",
+    "role": "Healer",
+    "faction": "Alliance",
+    "description": "The young king of Stormwind, gifted with the Holy Light. He seeks peace and unity, carrying the weight of leadership with compassion and courage."
+  },
+  {
+    "id": "7",
+    "name": "Tyrande Whisperwind",
+    "title": "High Priestess of Elune",
+    "class": "Priestess",
+    "role": "Healer",
+    "faction": "Alliance",
+    "description": "The high priestess of the moon goddess Elune and leader of the night elves. A fierce protector of her people, blending divine power with the ferocity of the Sentinels."
+  },
+  {
+    "id": "8",
+    "name": "Grommash Hellscream",
+    "title": "Warchief of the Warsong Clan",
+    "class": "Warrior",
+    "role": "Melee DPS",
+    "faction": "Horde",
+    "description": "A legendary orc warrior known for his unbreakable will. He freed the orcs from demonic corruption, sacrificing himself so his people could be truly free."
+  }
+]
